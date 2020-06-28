@@ -5,5 +5,7 @@ This repository contains my solutions to the assignments of the Coursera course 
 Assignments
 
 Module 2
+
 index1.html
+
 style.css
