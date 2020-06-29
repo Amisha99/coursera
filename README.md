@@ -6,6 +6,6 @@ Assignments
 
 Module 2
 
-index1.html
+<a href="file:///C:/Users/hp/Downloads/jsbin.meqasaguwe.1.html">Solution </a>
 
-style.css
+
