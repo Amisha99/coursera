@@ -6,6 +6,6 @@ Assignments
 
 Module 2
 
-<a href="goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution">Solution </a>
+<a href="file:///C:/Users/hp/Documents/index1.html">Solution </a>
 
 
