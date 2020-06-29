@@ -6,6 +6,6 @@ Assignments
 
 Module 2
 
-<a href="https://jsbin.com/?output">Solution </a>
+<a href="file:///D:/xampp/htdocs/airline%20booking/Untitled-1.html">Solution </a>
 
 
