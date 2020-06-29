@@ -6,6 +6,6 @@ Assignments
 
 Module 2
 
-<a href="file:///C:/Users/hp/Documents/index1.html">Solution </a>
+[Solution](C:/Users/hp/Documents/index1.html)
 
 
