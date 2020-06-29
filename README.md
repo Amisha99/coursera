@@ -7,6 +7,8 @@ Assignments
 Module 2
 
 [Assignment description](./descriptions/assignment2/Assignment-2.md)
+
+
 [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution/)
 
 
