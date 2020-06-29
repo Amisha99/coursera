@@ -6,6 +6,6 @@ Assignments
 
 Module 2
 
-<a href="file:///D:/xampp/htdocs/airline%20booking/Untitled-1.html">Solution </a>
+<a href="goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution">Solution </a>
 
 
